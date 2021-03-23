@@ -13,7 +13,7 @@ Curso Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
 ![IMAGE](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![IMAGE](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![IMAGE](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
-⚡  ![IMAGE](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white) ♥ ![IMAGE](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) ♥ ![IMAGE](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) ♥
+⚡  ![IMAGE](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white) ♥ ![IMAGE](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) ♥ ![IMAGE](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=arielnicollas&show_icons=true&theme=radical)
 
