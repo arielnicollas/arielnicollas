@@ -8,8 +8,4 @@
 
 ⚡ Curiosidade: Games ♥ Music ♥ Films ♥
 
-<p align=”center”>
-<a href=”https://www.linkedin.com/in/ariel-nicollas/”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-</p>
+[! [Estatísticas GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = arielnicollas )] (https://github.com/anuraghazra/github-readme-stats)
