@@ -8,4 +8,3 @@
 
 ⚡ Curiosidade: Games ♥ Music ♥ Films ♥
 
-[! [Estatísticas GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = arielnicollas )] (https://github.com/anuraghazra/github-readme-stats)
