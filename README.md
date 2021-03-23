@@ -2,13 +2,13 @@
 
 ### Olá 👋
 
-Curso Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá
+Curso Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
 
-💻 Atualmente, estou aprendendo sobre Backend
+💻 Atualmente, estou aprendendo sobre Backend.
 
-🤜🏻🤛🏻Estou procurando colaborar em projetos baseados em Kotlin
+🤜🏻🤛🏻Estou procurando colaborar em projetos baseados em Kotlin.
 
-💬 Skills: HTML , CSS, JavaScript, Bootstrap, Express.js, Kotlin
+💬 Skills: HTML , CSS, JavaScript, Bootstrap, Express.js, Kotlin.
 
 ⚡ Curiosidade: Games ♥ Music ♥ Films ♥
 
