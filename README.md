@@ -12,7 +12,7 @@ Curso Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá
 
 ⚡ Curiosidade: Games ♥ Music ♥ Films ♥
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=arielnicollas)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=arielnicollas&show_icons=true&theme=radical)
 
 📧 Como me encontrar? Conecte-se comigo
 
