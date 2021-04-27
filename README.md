@@ -4,9 +4,9 @@
 
 Curso Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
 
-💻 Atualmente, estou aprendendo sobre Backend.
+💻 Atualmente, estou estudando Web Service em Linux, Javascript.
 
-🤜🏻🤛🏻Estou procurando colaborar em projetos baseados em Kotlin.
+🤜🏻🤛🏻Estou procurando colaborar em projetos Open-Source.
 
  ![IMAGE](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![IMAGE](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![IMAGE](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![IMAGE](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![IMAGE](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) ![IMAGE](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![IMAGE](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
