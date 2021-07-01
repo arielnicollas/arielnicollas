@@ -4,7 +4,7 @@
 
 Curso Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
 
-💻 Atualmente, estou estudando Web Service em Linux, Javascript.
+💻 Atualmente, estou estudando Javascript, React.
 
 🤜🏻🤛🏻Estou procurando colaborar em projetos Open-Source.
 
