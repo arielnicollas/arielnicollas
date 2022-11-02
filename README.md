@@ -2,9 +2,7 @@
 
 ### Olá, meu nome é Ariel Nicollas 👋
 
-Curso Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
-
-Atualmente estou estudando Automação de Testes utilizando a ferramenta Robot Framework. 💻 
+Curso Análise e Desenvolvimento de Sistemas.
 
  ![IMAGE](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![IMAGE](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![IMAGE](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![IMAGE](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![IMAGE](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
