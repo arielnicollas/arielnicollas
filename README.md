@@ -5,7 +5,7 @@
 My name is Ariel Nicollas and I'm a FullStack Developer.
 
 - 🔭 I’m currently working as Back-End on SOV SOLUTIONS LTDA.
-- 🌱 I’m currently learning Node.Js on Alura
+- 🌱 I’m currently learning NestJS.
 - 📄 Know about my experiences on my [Linkedin]((https://www.linkedin.com/in/ariel-nicollas/))
 - 📫 How to reach me [ariel.nicollas@gmail.com](mailto:ariel.nicollas@gmail.com)
 
