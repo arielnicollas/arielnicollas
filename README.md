@@ -8,7 +8,7 @@ I have a degree in Systems Analysis and Development.
 
 - 🔭 I’m currently working as Back-End on SOV SOLUTIONS LTDA.
 - 🌱 I’m currently learning Angualar and NestJS.
-- 📄 Know about my experiences on my [Linkedin]((https://www.linkedin.com/in/ariel-nicollas/))
+- 📄 Know about my experiences on my [Linkedin]((https://www.linkedin.com/in/ariel-nicollas/)).
 - 📫 How to reach me [ariel.nicollas@gmail.com](mailto:ariel.nicollas@gmail.com)
 
 <h2>Languages and Tools:</h2>
