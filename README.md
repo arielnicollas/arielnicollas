@@ -2,12 +2,11 @@
 
 ### Hello 👋
 
-My name is Ariel Nicollas and I'm a FullStack Developer.
+My name is Ariel Nicollas.
 
 I have a degree in Systems Analysis and Development.
 
-- 🔭 I’m currently working as FullStack on SOV SOLUTIONS LTDA.
-- 🌱 I’m currently learning Next.js and Nest.
+- 🌱 I’m currently learning GO.
 - 📄 Know about my experiences on my [Linkedin]((https://www.linkedin.com/in/ariel-nicollas/)).
 - 📫 How to reach me [ariel.nicollas@gmail.com](mailto:ariel.nicollas@gmail.com)
 
