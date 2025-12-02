@@ -19,6 +19,6 @@ I have a degree in Systems Analysis and Development.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" />
           
- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=arielnicollas&show_icons=true&theme=radical)         
+     
 
 <a href="https://github.com/arielnicollas"></a> 
