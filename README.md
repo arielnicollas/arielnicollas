@@ -6,7 +6,7 @@ My name is Ariel Nicollas.
 
 I have a degree in Systems Analysis and Development.
 
-- 🌱 I’m currently learning GO.
+- 🌱 I am currently focused on Angular certification.
 - 📄 Know about my experiences on my [Linkedin]((https://www.linkedin.com/in/ariel-nicollas/)).
 - 📫 How to reach me [ariel.nicollas@gmail.com](mailto:ariel.nicollas@gmail.com)
 
